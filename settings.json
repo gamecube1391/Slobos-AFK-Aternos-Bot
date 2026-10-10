@@ -6,7 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "noshadSMP.aternos.me",
+    "ip": "noshadSMP.aternos.me
+",
     "port": 12318,
     "version": "",
     "try-creative": false
